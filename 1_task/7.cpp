@@ -43,3 +43,9 @@ int main() {
 
     return 0;
 }
+
+
+// Examples
+// Input: a=1, b=10, num=4 Output: true
+// Input: a=1, b=10, num=25 Output: false
+// Input: a=-2, b=15, num=-1 Output: true
