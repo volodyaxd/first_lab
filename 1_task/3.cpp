@@ -29,3 +29,9 @@ int main() {
 
     return 0;
 }
+
+
+// Examples
+// Input: 0 Output: 0
+// Input: '9' Output: Некорректный символ! Введите цифру от 0 до 9.
+// Input: papa Output: Некорректный символ! Введите цифру от 0 до 9.
